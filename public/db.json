@@ -1,0 +1,56 @@
+{"bloods": [{
+    "id":1,
+    "blood_group":"A+",
+    "donor": "A+,AB+",
+    "recipient": "A+,A-,O+,O-",
+    "nature":"good",
+    "willing":"yes"
+    
+  
+  },
+  {
+    "id":2,
+    "blood_group":"B+",
+    "donor": "B+,AB+",
+    "recipient": "B+,B-,O+,O-",
+    "nature":"good",
+    "willing":"yes"
+   
+  },
+  {
+    "id":3,
+    "blood_group":"AB+",
+    "donor": "AB+",
+    "recipient": "EVERYONE",
+    "nature":"good",
+    "willing":"yes"
+   
+  },
+  {
+    "id":4,
+    "blood_group":"O+",
+    "donor": "O+,A+,B+,AB+",
+    "recipient": "O+,O-",
+    "nature":"good",
+    "willing":"yes"
+    
+  },
+  {
+    "id":5,
+    "blood_group":"AB-",
+    "donor": "AB+",
+    "recipient": "EVERYONE",
+    "nature":"good",
+    "willing":"yes"
+   
+  },
+  {
+    "id":6,
+    "blood_group":"o-",
+    "donor": "AB+",
+    "recipient": "EVERYONE",
+    "nature":"good",
+    "willing":"yes"
+   
+  }
+  ]}
